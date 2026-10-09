@@ -1,0 +1,6 @@
+{
+  "name": "C-FastAPI Non-Blocking Server",
+  "description": "High-performance asynchronous C HTTP web framework inspired by FastAPI, featuring epoll reactor event loop, zero-dependency streaming HTTP parser, dynamic path routing, and isolated API architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
